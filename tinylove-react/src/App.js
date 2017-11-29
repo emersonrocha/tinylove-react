@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
-import Hero from "./components/hero/Hero.js"
+import Hero from "./components/hero/Hero.js";
 
 const App = () => (
   <div className="App">
